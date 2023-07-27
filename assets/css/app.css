@@ -1,0 +1,28 @@
+ @font-face {
+    font-family: 'Poppins';
+    src:  url('~assets/poppins/Poppins-Regular.ttf') format('truetype')
+  }
+  @font-face {
+    font-family: 'PoppinsLight';
+    src: url('~assets/Poppins/Poppins-Light.ttf') format('truetype')
+  }
+  @font-face {
+    font-family: 'PoppinsThin';
+    src: url('~assets/Poppins/Poppins-Thin.ttf') format('truetype')
+  }
+  @font-face {
+    font-family: 'PoppinsSemiBold';
+    src: url('~assets/Poppins/Poppins-SemiBold.ttf') format('truetype')
+  }
+  @font-face {
+    font-family: 'PoppinsBold';
+    src: url('~assets/Poppins/Poppins-Bold.ttf') format('truetype')
+  }
+  .nav-item>.dropdown-toggle{
+    display: block;
+  } 
+  body{
+   
+  font-family: Poppins;
+  }  
+
