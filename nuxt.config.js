@@ -20,7 +20,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/BRB YELLO.png' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/BRB YELLOW.png' }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -74,5 +74,7 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    
+  },
 }
